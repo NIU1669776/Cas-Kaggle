@@ -3,20 +3,17 @@
 \contentsline {section}{\numberline {2}Finding The Dataset}{1}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Dataset Preprocessing}{1}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Masking the Hand}{1}{subsection.2.2}%
-\contentsline {section}{\numberline {3}Feature extraction}{1}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Figures}{1}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Tables}{2}{subsection.3.2}%
+\contentsline {section}{\numberline {3}Feature extraction}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Keypoints}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}The Codebook}{2}{subsection.3.2}%
 \contentsline {section}{\numberline {4}Predicting using the codebook}{2}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Tauenvs}{2}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Taubabel}{3}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.1}From Descriptors to Histograms}{2}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}SVM}{3}{subsection.4.2}%
 \contentsline {section}{\numberline {5}Video Processing}{3}{section.5}%
 \contentsline {section}{\numberline {6}Hand Detection}{3}{section.6}%
-\contentsline {section}{\numberline {7}Final Results}{3}{section.7}%
-\contentsline {section}{\numberline {8}Future Improvements}{3}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Alternative title}{3}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}Info environment}{3}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3}Equation skip value}{3}{subsection.8.3}%
-\contentsline {subsection}{\numberline {8.4}References}{3}{subsection.8.4}%
-\contentsline {section}{\numberline {9}Acknowledgements}{3}{section.9}%
-\contentsline {section}{References}{3}{section.9}%
+\contentsline {section}{\numberline {7}Final Results}{4}{section.7}%
+\contentsline {section}{\numberline {8}Future Improvements}{4}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Category Coherence}{4}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Transition Frames}{4}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Model Improvement}{4}{subsection.8.3}%
 \contentsfinish 
