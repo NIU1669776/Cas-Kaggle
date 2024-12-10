@@ -16,4 +16,5 @@
 \contentsline {subsection}{\numberline {8.1}Category Coherence}{4}{subsection.8.1}%
 \contentsline {subsection}{\numberline {8.2}Transition Frames}{4}{subsection.8.2}%
 \contentsline {subsection}{\numberline {8.3}Model Improvement}{4}{subsection.8.3}%
+\contentsline {section}{References}{4}{figure.caption.12}%
 \contentsfinish 

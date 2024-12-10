@@ -774,6 +774,14 @@ INPUT ./figures/cropped_resized.pdf
 INPUT ./figures/cropped_resized.pdf
 INPUT ./figures/cropped_resized.pdf
 INPUT ./figures/cropped_resized.pdf
+INPUT ./figures/a_hand.jpeg
+INPUT ./figures/a_hand.jpeg
+INPUT ./figures/a_hand.jpeg
+INPUT ./figures/a_hand.jpeg
+INPUT ./figures/t_hand.jpeg
+INPUT ./figures/t_hand.jpeg
+INPUT ./figures/t_hand.jpeg
+INPUT ./figures/t_hand.jpeg
 INPUT ./figures/frame64.jpg
 INPUT ./figures/frame64.jpg
 INPUT ./figures/frame64.jpg

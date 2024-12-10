@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.7)  8 DEC 2024 19:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.7)  10 DEC 2024 10:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1438,42 +1438,42 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
-LaTeX Font Info:    Trying to load font information for T1+stix2 on input line 71.
+LaTeX Font Info:    Trying to load font information for T1+stix2 on input line 73.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/stix2-type1/t1stix2.fd
 File: t1stix2.fd 2018/04/02 v2.0.0-latex stix2 T1 font definitions
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for LS1/stix2/m/n on input line 71.
-LaTeX Font Info:    Trying to load font information for LS1+stix2 on input line 71.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for LS1/stix2/m/n on input line 73.
+LaTeX Font Info:    Trying to load font information for LS1+stix2 on input line 73.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/stix2-type1/ls1stix2.fd
 File: ls1stix2.fd 2018/04/02 v2.0.0-latex stix2 LS1 font definitions
 )
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for LS2/stix2/m/n on input line 71.
-LaTeX Font Info:    Trying to load font information for LS2+stix2 on input line 71.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for LS2/stix2/m/n on input line 73.
+LaTeX Font Info:    Trying to load font information for LS2+stix2 on input line 73.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/stix2-type1/ls2stix2.fd
 File: ls2stix2.fd 2018/04/02 v2.0.0-latex stix2 LS2 font definitions
 )
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
  (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count531
@@ -1541,9 +1541,9 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Command `\dddot' is already robust on input line 71.
-LaTeX Info: Command `\ddddot' is already robust on input line 71.
-Package hyperref Info: Link coloring ON on input line 71.
+LaTeX Info: Command `\dddot' is already robust on input line 73.
+LaTeX Info: Command `\ddddot' is already robust on input line 73.
+Package hyperref Info: Link coloring ON on input line 73.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
@@ -1557,113 +1557,113 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 71.
-Package biblatex Info: Reference segment=0 on input line 71.
-LaTeX Info: Redefining \microtypecontext on input line 71.
-Package microtype Info: Applying patch `item' on input line 71.
-Package microtype Info: Applying patch `toc' on input line 71.
-Package microtype Info: Applying patch `eqnum' on input line 71.
-Package microtype Info: Applying patch `footnote' on input line 71.
-Package microtype Info: Applying patch `verbatim' on input line 71.
+Package biblatex Info: Reference section=0 on input line 73.
+Package biblatex Info: Reference segment=0 on input line 73.
+LaTeX Info: Redefining \microtypecontext on input line 73.
+Package microtype Info: Applying patch `item' on input line 73.
+Package microtype Info: Applying patch `toc' on input line 73.
+Package microtype Info: Applying patch `eqnum' on input line 73.
+Package microtype Info: Applying patch `footnote' on input line 73.
+Package microtype Info: Applying patch `verbatim' on input line 73.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 71.
+LaTeX Info: Redefining \showhyphens on input line 73.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 73.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 75.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 8.54997pt on input line 73.
+(Font)              scaled to size 8.54997pt on input line 75.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `phv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 8.54997pt on input line 73.
+(Font)              scaled to size 8.54997pt on input line 75.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 17.09995pt on input line 73.
-LaTeX Font Info:    Trying to load font information for LS1+stix2scr on input line 73.
+(Font)              scaled to size 17.09995pt on input line 75.
+LaTeX Font Info:    Trying to load font information for LS1+stix2scr on input line 75.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/stix2-type1/ls1stix2scr.fd
 File: ls1stix2scr.fd 2018/04/02 v2.0.0-latex stix2 script LS1 font definitions
 )
-LaTeX Font Info:    Trying to load font information for LS2+stix2ex on input line 73.
+LaTeX Font Info:    Trying to load font information for LS2+stix2ex on input line 75.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/stix2-type1/ls2stix2ex.fd
 File: ls2stix2ex.fd 2018/04/02 v2.0.0-latex stix2 extentions LS2 font definitions
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 73.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 75.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 73.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 75.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Trying to load font information for LS1+stix2frak on input line 73.
+LaTeX Font Info:    Trying to load font information for LS1+stix2frak on input line 75.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/stix2-type1/ls1stix2frak.fd
 File: ls1stix2frak.fd 2018/04/02 v2.0.0-latex stix2 fraktur LS1 font definitions
 )
-LaTeX Font Info:    Trying to load font information for LS1+stix2bb on input line 73.
+LaTeX Font Info:    Trying to load font information for LS1+stix2bb on input line 75.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/stix2-type1/ls1stix2bb.fd
 File: ls1stix2bb.fd 2018/04/02 v2.0.0-latex stix2 blackboard LS1 font definitions
 )
-LaTeX Font Info:    Trying to load font information for LS2+stix2cal on input line 73.
+LaTeX Font Info:    Trying to load font information for LS2+stix2cal on input line 75.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/stix2-type1/ls2stix2cal.fd
 File: ls2stix2cal.fd 2018/04/02 v2.0.0-latex stix2 calligraphic LS2 font definitions
 )
-LaTeX Font Info:    Trying to load font information for LS1+stix2sf on input line 73.
+LaTeX Font Info:    Trying to load font information for LS1+stix2sf on input line 75.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/stix2-type1/ls1stix2sf.fd
 File: ls1stix2sf.fd 2018/04/02 v2.0.0-latex stix2 sans-serif LS1 font definitions
 )
-LaTeX Font Info:    Trying to load font information for LS2+stix2tt on input line 73.
+LaTeX Font Info:    Trying to load font information for LS2+stix2tt on input line 75.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/stix2-type1/ls2stix2tt.fd
 File: ls2stix2tt.fd 2018/04/02 v2.0.0-latex stix2 typewriter LS2 font definitions
 )
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 5.69998pt on input line 73.
-LaTeX Font Info:    Calculating math sizes for size <7.5> on input line 73.
+(Font)              scaled to size 5.69998pt on input line 75.
+LaTeX Font Info:    Calculating math sizes for size <7.5> on input line 75.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 7.59998pt on input line 74.
+(Font)              scaled to size 7.59998pt on input line 76.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 7.59998pt on input line 74.
+(Font)              scaled to size 7.59998pt on input line 76.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 75.
+(Font)              scaled to size 9.49997pt on input line 77.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 9.49997pt on input line 75.
+(Font)              scaled to size 9.49997pt on input line 77.
  (./main.toc)
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 4.74998pt on input line 80.
+(Font)              scaled to size 4.74998pt on input line 82.
 Package lettrine.sty Info: Targeted height = 15.846pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 17.02998pt ({\color {taucolor}\bfseries \fontsize {26pt}{28pt}\selectfont {T}});
-(lettrine.sty)             reported on input line 82.
+(lettrine.sty)             reported on input line 84.
 
 
-<figures/original.pdf, id=42, 462.52798pt x 346.89601pt>
+<figures/original.pdf, id=44, 462.52798pt x 346.89601pt>
 File: figures/original.pdf Graphic file (type pdf)
 <use figures/original.pdf>
-Package pdftex.def Info: figures/original.pdf  used on input line 98.
+Package pdftex.def Info: figures/original.pdf  used on input line 100.
 (pdftex.def)             Requested size: 191.76599pt x 143.82683pt.
-<figures/Mask.pdf, id=43, 462.52798pt x 346.89601pt>
+<figures/Mask.pdf, id=45, 462.52798pt x 346.89601pt>
 File: figures/Mask.pdf Graphic file (type pdf)
 <use figures/Mask.pdf>
-Package pdftex.def Info: figures/Mask.pdf  used on input line 109.
+Package pdftex.def Info: figures/Mask.pdf  used on input line 111.
 (pdftex.def)             Requested size: 191.76599pt x 143.82683pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1671,20 +1671,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 6.64998pt on input line 114.
+(Font)              scaled to size 6.64998pt on input line 116.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 6.64998pt on input line 114.
+(Font)              scaled to size 6.64998pt on input line 116.
 [1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/stix2-type1/stix2-t1.enc}
 
 
  <./figures/original.pdf>]
-Package mdframed Info: mdframed works in twoside mode on input line 114.
+Package mdframed Info: mdframed works in twoside mode on input line 116.
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--122
+Underfull \hbox (badness 10000) in paragraph at lines 122--124
 
  []
 
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 125.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 127.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1693,29 +1693,29 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--128
+Underfull \hbox (badness 10000) in paragraph at lines 125--130
 
  []
 
-<figures/Simple_sift.pdf, id=94, 462.52798pt x 346.89601pt>
+<figures/Simple_sift.pdf, id=97, 462.52798pt x 346.89601pt>
 File: figures/Simple_sift.pdf Graphic file (type pdf)
 <use figures/Simple_sift.pdf>
-Package pdftex.def Info: figures/Simple_sift.pdf  used on input line 132.
+Package pdftex.def Info: figures/Simple_sift.pdf  used on input line 134.
 (pdftex.def)             Requested size: 105.27359pt x 78.95337pt.
-<figures/Simple_sift_mistake.pdf, id=95, 462.52798pt x 346.89601pt>
+<figures/Simple_sift_mistake.pdf, id=98, 462.52798pt x 346.89601pt>
 File: figures/Simple_sift_mistake.pdf Graphic file (type pdf)
 <use figures/Simple_sift_mistake.pdf>
-Package pdftex.def Info: figures/Simple_sift_mistake.pdf  used on input line 138.
+Package pdftex.def Info: figures/Simple_sift_mistake.pdf  used on input line 140.
 (pdftex.def)             Requested size: 105.27359pt x 78.95337pt.
-<figures/Dense_sift.pdf, id=96, 462.52798pt x 346.89601pt>
+<figures/Dense_sift.pdf, id=99, 462.52798pt x 346.89601pt>
 File: figures/Dense_sift.pdf Graphic file (type pdf)
 <use figures/Dense_sift.pdf>
-Package pdftex.def Info: figures/Dense_sift.pdf  used on input line 144.
+Package pdftex.def Info: figures/Dense_sift.pdf  used on input line 146.
 (pdftex.def)             Requested size: 105.27359pt x 78.95337pt.
-<figures/Masked_dense_sift.pdf, id=98, 462.52798pt x 346.89601pt>
+<figures/Masked_dense_sift.pdf, id=101, 462.52798pt x 346.89601pt>
 File: figures/Masked_dense_sift.pdf Graphic file (type pdf)
 <use figures/Masked_dense_sift.pdf>
-Package pdftex.def Info: figures/Masked_dense_sift.pdf  used on input line 159.
+Package pdftex.def Info: figures/Masked_dense_sift.pdf  used on input line 161.
 (pdftex.def)             Requested size: 191.76599pt x 143.82683pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1723,120 +1723,133 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--169
+Underfull \hbox (badness 10000) in paragraph at lines 168--171
 
  []
 
-Package mdframed Info: mdframed works in twoside mode on input line 175.
-<figures/histogram0.pdf, id=99, 462.52798pt x 346.89601pt>
+Package mdframed Info: mdframed works in twoside mode on input line 177.
+<figures/histogram0.pdf, id=102, 462.52798pt x 346.89601pt>
 File: figures/histogram0.pdf Graphic file (type pdf)
 <use figures/histogram0.pdf>
-Package pdftex.def Info: figures/histogram0.pdf  used on input line 220.
+Package pdftex.def Info: figures/histogram0.pdf  used on input line 222.
 (pdftex.def)             Requested size: 105.27359pt x 78.95337pt.
-<figures/histogram1.pdf, id=100, 462.52798pt x 346.89601pt>
+<figures/histogram1.pdf, id=103, 462.52798pt x 346.89601pt>
 File: figures/histogram1.pdf Graphic file (type pdf)
 <use figures/histogram1.pdf>
-Package pdftex.def Info: figures/histogram1.pdf  used on input line 226.
+Package pdftex.def Info: figures/histogram1.pdf  used on input line 228.
 (pdftex.def)             Requested size: 105.27359pt x 78.95337pt.
-<figures/histogram2.pdf, id=101, 462.52798pt x 346.89601pt>
+<figures/histogram2.pdf, id=104, 462.52798pt x 346.89601pt>
 File: figures/histogram2.pdf Graphic file (type pdf)
 <use figures/histogram2.pdf>
-Package pdftex.def Info: figures/histogram2.pdf  used on input line 232.
+Package pdftex.def Info: figures/histogram2.pdf  used on input line 234.
 (pdftex.def)             Requested size: 105.27359pt x 78.95337pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 244--247
+Underfull \hbox (badness 10000) in paragraph at lines 246--249
 
  []
 
 
 
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 247.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 249.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 6.64998pt on input line 247.
+(Font)              scaled to size 6.64998pt on input line 249.
 [2{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc} <./figures/Mask.pdf> <./figures/Masked_dense_sift.pdf> <./figures/Simple_sift.pdf> <./figures/Simple_sift_mistake.pdf> <./figures/Dense_sift.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 248--255
+Underfull \hbox (badness 10000) in paragraph at lines 250--257
 
  []
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/09/23 1.10c listings language file
 )
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 258.
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 260.
  (./func.py)
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--265
+Underfull \hbox (badness 10000) in paragraph at lines 264--267
 
  []
 
-<figures/frame40.jpg, id=175, 1927.2pt x 1084.05pt>
+<figures/frame40.jpg, id=178, 1927.2pt x 1084.05pt>
 File: figures/frame40.jpg Graphic file (type jpg)
 <use figures/frame40.jpg>
-Package pdftex.def Info: figures/frame40.jpg  used on input line 268.
+Package pdftex.def Info: figures/frame40.jpg  used on input line 270.
 (pdftex.def)             Requested size: 191.76599pt x 107.86548pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 275--276
+Underfull \hbox (badness 10000) in paragraph at lines 277--278
 
  []
 
-<figures/cropped_frame.pdf, id=176, 462.52798pt x 346.89601pt>
+<figures/cropped_frame.pdf, id=179, 462.52798pt x 346.89601pt>
 File: figures/cropped_frame.pdf Graphic file (type pdf)
 <use figures/cropped_frame.pdf>
-Package pdftex.def Info: figures/cropped_frame.pdf  used on input line 280.
+Package pdftex.def Info: figures/cropped_frame.pdf  used on input line 282.
 (pdftex.def)             Requested size: 191.76599pt x 143.82683pt.
-<figures/cropped_mask.pdf, id=177, 462.52798pt x 346.89601pt>
+<figures/cropped_mask.pdf, id=180, 462.52798pt x 346.89601pt>
 File: figures/cropped_mask.pdf Graphic file (type pdf)
 <use figures/cropped_mask.pdf>
-Package pdftex.def Info: figures/cropped_mask.pdf  used on input line 289.
+Package pdftex.def Info: figures/cropped_mask.pdf  used on input line 291.
 (pdftex.def)             Requested size: 109.94395pt x 82.45746pt.
-<figures/cropped_result.pdf, id=178, 462.52798pt x 346.89601pt>
+<figures/cropped_result.pdf, id=181, 462.52798pt x 346.89601pt>
 File: figures/cropped_result.pdf Graphic file (type pdf)
 <use figures/cropped_result.pdf>
-Package pdftex.def Info: figures/cropped_result.pdf  used on input line 295.
+Package pdftex.def Info: figures/cropped_result.pdf  used on input line 297.
 (pdftex.def)             Requested size: 109.94395pt x 82.45746pt.
 
 
 [3 <./figures/histogram0.pdf> <./figures/histogram1.pdf> <./figures/histogram2.pdf> <./figures/frame40.jpg> <./figures/cropped_frame.pdf>]
-<figures/cropped_resized.pdf, id=280, 462.52798pt x 346.89601pt>
+<figures/cropped_resized.pdf, id=283, 462.52798pt x 346.89601pt>
 File: figures/cropped_resized.pdf Graphic file (type pdf)
 <use figures/cropped_resized.pdf>
-Package pdftex.def Info: figures/cropped_resized.pdf  used on input line 305.
+Package pdftex.def Info: figures/cropped_resized.pdf  used on input line 307.
 (pdftex.def)             Requested size: 191.76599pt x 143.82683pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--311
+Underfull \hbox (badness 10000) in paragraph at lines 311--313
+
+ []
+
+<figures/a_hand.jpeg, id=284, 401.5pt x 401.5pt>
+File: figures/a_hand.jpeg Graphic file (type jpg)
+<use figures/a_hand.jpeg>
+Package pdftex.def Info: figures/a_hand.jpeg  used on input line 318.
+(pdftex.def)             Requested size: 109.94395pt x 109.94417pt.
+<figures/t_hand.jpeg, id=285, 401.5pt x 401.5pt>
+File: figures/t_hand.jpeg Graphic file (type jpg)
+<use figures/t_hand.jpeg>
+Package pdftex.def Info: figures/t_hand.jpeg  used on input line 324.
+(pdftex.def)             Requested size: 109.94395pt x 109.94417pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--329
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 312--313
 
- []
-
-<figures/frame64.jpg, id=282, 1927.2pt x 1084.05pt>
+<figures/frame64.jpg, id=288, 1927.2pt x 1084.05pt>
 File: figures/frame64.jpg Graphic file (type jpg)
 <use figures/frame64.jpg>
-Package pdftex.def Info: figures/frame64.jpg  used on input line 319.
-(pdftex.def)             Requested size: 105.27359pt x 59.20113pt.
-<figures/frame64.jpg_processed.png, id=283, 401.5pt x 401.5pt>
+Package pdftex.def Info: figures/frame64.jpg  used on input line 345.
+(pdftex.def)             Requested size: 109.94395pt x 61.83119pt.
+<figures/frame64.jpg_processed.png, id=289, 401.5pt x 401.5pt>
 File: figures/frame64.jpg_processed.png Graphic file (type png)
 <use figures/frame64.jpg_processed.png>
-Package pdftex.def Info: figures/frame64.jpg_processed.png  used on input line 325.
-(pdftex.def)             Requested size: 105.27359pt x 105.26973pt.
+Package pdftex.def Info: figures/frame64.jpg_processed.png  used on input line 351.
+(pdftex.def)             Requested size: 109.94395pt x 109.94417pt.
 File: figures/frame40.jpg Graphic file (type jpg)
 <use figures/frame40.jpg>
-Package pdftex.def Info: figures/frame40.jpg  used on input line 331.
-(pdftex.def)             Requested size: 105.27359pt x 59.20113pt.
-<figures/frame40.jpg_processed.png, id=284, 401.5pt x 401.5pt>
+Package pdftex.def Info: figures/frame40.jpg  used on input line 361.
+(pdftex.def)             Requested size: 109.94395pt x 61.83119pt.
+<figures/frame40.jpg_processed.png, id=290, 401.5pt x 401.5pt>
 File: figures/frame40.jpg_processed.png Graphic file (type png)
 <use figures/frame40.jpg_processed.png>
-Package pdftex.def Info: figures/frame40.jpg_processed.png  used on input line 337.
-(pdftex.def)             Requested size: 105.27359pt x 105.26973pt.
+Package pdftex.def Info: figures/frame40.jpg_processed.png  used on input line 367.
+(pdftex.def)             Requested size: 109.94395pt x 109.94417pt.
+
+LaTeX Warning: Empty bibliography on input line 378.
 
 
 
-
-[4 <./figures/cropped_mask.pdf> <./figures/cropped_result.pdf> <./figures/cropped_resized.pdf> <./figures/frame64.jpg> <./figures/frame64.jpg_processed.png (PNG copy)> <./figures/frame40.jpg_processed.png (PNG copy)>] 
+[4 <./figures/cropped_mask.pdf> <./figures/cropped_result.pdf> <./figures/cropped_resized.pdf> <./figures/a_hand.jpeg> <./figures/t_hand.jpeg> <./figures/frame64.jpg> <./figures/frame64.jpg_processed.png (PNG copy)> <./figures/frame40.jpg_processed.png (PNG copy)>] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./main.aux)
  ***********
@@ -1848,18 +1861,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 69291 strings out of 473330
- 1510279 string characters out of 5719769
- 2944591 words of memory out of 5000000
- 91241 multiletter control sequences out of 15000+600000
+ 69322 strings out of 473330
+ 1510916 string characters out of 5719769
+ 2945880 words of memory out of 5000000
+ 91270 multiletter control sequences out of 15000+600000
  787202 words of font info for 306 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  137i,12n,143p,1101b,1896s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/stix2-type1/STIX2Text-Bold.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/stix2-type1/STIX2Text-Italic.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/stix2-type1/STIX2Text-Regular.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (4 pages, 5036375 bytes).
+Output written on main.pdf (4 pages, 5063581 bytes).
 PDF statistics:
- 439 PDF objects out of 1000 (max. 8388607)
- 290 compressed objects within 3 object streams
- 76 named destinations out of 1000 (max. 500000)
- 83178 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 449 PDF objects out of 1000 (max. 8388607)
+ 297 compressed objects within 3 object streams
+ 78 named destinations out of 1000 (max. 500000)
+ 83196 words of extra memory for PDF output out of 89155 (max. 10000000)
 

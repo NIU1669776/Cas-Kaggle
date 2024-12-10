@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1733682211.16992 "main.bcf" "main.bbl" "main" 1733682216.46703 0
-  "main.bcf" 1733682216.3166 108045 bcb05891c7881fd0185d52d712a83f0f "pdflatex"
+["biber main"] 1733824442.57082 "main.bcf" "main.bbl" "main" 1733824445.01362 0
+  "main.bcf" 1733824444.86137 108712 32fec0f9878df2a642fe88750d149403 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1733682214.77848 "/home/samuel/Documents/Apuntes_3/Aprendizaje Computacional/Practica/Caso Kaggle/Cas-Kaggle/Report/main.tex" "main.pdf" "main" 1733682216.46729 0
-  "/home/samuel/Documents/Apuntes_3/Aprendizaje Computacional/Practica/Caso Kaggle/Cas-Kaggle/Report/main.tex" 1733682209.2684 20060 fdceb153ea494789c4395e2ce1b231f7 ""
+["pdflatex"] 1733824443.33018 "/home/samuel/Documents/Apuntes_3/Aprendizaje Computacional/Practica/Caso Kaggle/Cas-Kaggle/Report/main.tex" "main.pdf" "main" 1733824445.01391 0
+  "/home/samuel/Documents/Apuntes_3/Aprendizaje Computacional/Practica/Caso Kaggle/Cas-Kaggle/Report/main.tex" 1733824440.68687 20607 ff728abfac9a1b1c89d7e14161c04827 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/stix2-type1/stix2-t1.enc" 1610747736 7007 7bfc8f72039f2cce6ca911c3c71db584 ""
@@ -324,6 +324,7 @@
   "figures/Masked_dense_sift.pdf" 1733573473.73374 914338 6a157895ba1f7b0649a97f382f617022 ""
   "figures/Simple_sift.pdf" 1733573471.85254 525196 ecb34df5aad57e2c47e7b5a6771d7ea9 ""
   "figures/Simple_sift_mistake.pdf" 1733590619.31447 410399 b1049aa78cc87156cb22f7c0dfc5b908 ""
+  "figures/a_hand.jpeg" 1571756796 13607 36d6b49e1430b01f52f39509d1c1b970 ""
   "figures/cropped_frame.pdf" 1733651605.71233 234080 3891431ca6ff810ed99c8fd19162c8e8 ""
   "figures/cropped_mask.pdf" 1733651657.04744 20085 a6a696479d83a03b743d8c523112c201 ""
   "figures/cropped_resized.pdf" 1733651719.32137 132191 725693b9d9958bbdb89160520e9ef10e ""
@@ -336,12 +337,13 @@
   "figures/histogram1.pdf" 1733576965.11581 11129 c1fe7bfa373e16c5b602884d2ccb6a43 ""
   "figures/histogram2.pdf" 1733576965.63182 10055 2ecd9445303771ecce35e11e8b0c7047 ""
   "figures/original.pdf" 1733573471.25048 345240 4a546ab245a153762b96fc8e68277a1e ""
+  "figures/t_hand.jpeg" 1571756806 13277 b9021717e60d28482c857c8101f59eaa ""
   "func.py" 1733596966.86576 1089 f938dfd8cd8ded95de7e6134b96542e9 ""
-  "main.aux" 1733682216.3116 16076 7b6240dda06c927578c07a14d605532a "pdflatex"
-  "main.bbl" 1733682214.74656 466 76d65a242ec496c9b4361af646ff12cb "biber main"
-  "main.run.xml" 1733682216.3176 2395 639899e201ab14e1584d1585af2f211c "pdflatex"
-  "main.tex" 1733682209.2684 20060 fdceb153ea494789c4395e2ce1b231f7 ""
-  "main.toc" 1733682216.3176 1372 da7fc716a98770b3d80f486f8c7949e2 "pdflatex"
+  "main.aux" 1733824444.85537 17415 2fa3a484317931bb317810e6cbf4d967 "pdflatex"
+  "main.bbl" 1733824443.29919 466 76d65a242ec496c9b4361af646ff12cb "biber main"
+  "main.run.xml" 1733824444.86137 2395 639899e201ab14e1584d1585af2f211c "pdflatex"
+  "main.tex" 1733824440.68687 20607 ff728abfac9a1b1c89d7e14161c04827 ""
+  "main.toc" 1733824444.86237 1431 8348f873fc4e4c92e90e47dff89039d9 "pdflatex"
   "tau-class/tau.cls" 1733567207.87702 14787 51432b0c998a8a72c41055f81c42981a ""
   "tau-class/taubabel.sty" 1733564161.33226 2369 a1bf684fde36e78a6391539fd38a7968 ""
   "tau-class/tauenvs.sty" 1733564161.33226 3183 d5bbfc779d2505e5da39eeff038cc6e0 ""
